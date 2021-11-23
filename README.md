@@ -74,7 +74,7 @@ An output of this sort indicates that everything is correct.
                     INFO     Reference genome: "hg19"                                                                            dbchk.py:61
                     INFO     Contains overlaps: False                                                                            dbchk.py:66
                     INFO     Oligo min distance: 11                                                                              dbchk.py:67
-                    INFO     Oligo length range: (39, 39)                                                                        dbchk.py:68
+                    INFO     Oligo length range: (40, 40)                                                                        dbchk.py:68
                     INFO     Database checked.                                                                                   dbchk.py:69
                     INFO     Done. 👍 😃                                                                                         dbchk.py:71
 ```
